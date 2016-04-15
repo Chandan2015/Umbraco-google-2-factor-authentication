@@ -1,0 +1,28 @@
+﻿ 2016-04-13 00:01:58,276 [P7236/D2/T67] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username cknextmove@gmail.com from IP address ::1
+ 2016-04-13 00:01:58,276 [P7236/D2/T67] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: cknextmove@gmail.com logged in from IP address ::1
+ 2016-04-13 00:02:25,049 [P7236/D2/T45] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username cknextmove@gmail.com from IP address ::1
+ 2016-04-13 00:02:25,049 [P7236/D2/T45] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: cknextmove@gmail.com logged in from IP address ::1
+ 2016-04-13 00:02:25,100 [P7236/D2/T64] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-04-13 00:02:25,101 [P7236/D2/T64] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-04-13 00:02:37,183 [P7236/D2/T64] INFO  Umbraco.Web.Editors.AuthenticationController - User cknextmove@gmail.com from IP address ::1 has logged out
+ 2016-04-13 00:04:04,281 [P7236/D2/T67] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username cknextmove@gmail.com from IP address ::1
+ 2016-04-13 00:04:04,281 [P7236/D2/T67] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: cknextmove@gmail.com logged in from IP address ::1
+ 2016-04-13 00:05:05,846 [P7236/D2/T50] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username cknextmove@gmail.com from IP address ::1
+ 2016-04-13 00:05:05,846 [P7236/D2/T50] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: cknextmove@gmail.com logged in from IP address ::1
+ 2016-04-13 00:05:05,887 [P7236/D2/T50] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-04-13 00:05:05,888 [P7236/D2/T50] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2016-04-13 19:16:10,872 [P7236/D2/T67] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2016-04-13 19:16:10,888 [P7236/D2/T7] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
+ 2016-04-13 19:16:10,888 [P7236/D2/T26] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2016-04-13 19:16:10,888 [P7236/D2/T77] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2016-04-13 19:16:10,888 [P7236/D2/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
+ 2016-04-13 19:16:10,888 [P7236/D2/T50] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated

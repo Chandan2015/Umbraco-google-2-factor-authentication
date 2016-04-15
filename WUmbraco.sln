@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WUmbraco", "WUmbraco\WUmbraco.csproj", "{D1ED1976-FB4D-46C0-8E0F-FAC0ABF6A87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Authenticator", "Google.Authenticator\Google.Authenticator.csproj", "{3D92DE47-0AB8-466F-9083-AF65D865E4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAPI", "GoogleAPI\GoogleAPI.csproj", "{C0005461-5390-490E-BC36-6DF14FE3E7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1ED1976-FB4D-46C0-8E0F-FAC0ABF6A87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ED1976-FB4D-46C0-8E0F-FAC0ABF6A87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ED1976-FB4D-46C0-8E0F-FAC0ABF6A87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ED1976-FB4D-46C0-8E0F-FAC0ABF6A87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D92DE47-0AB8-466F-9083-AF65D865E4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D92DE47-0AB8-466F-9083-AF65D865E4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D92DE47-0AB8-466F-9083-AF65D865E4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D92DE47-0AB8-466F-9083-AF65D865E4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0005461-5390-490E-BC36-6DF14FE3E7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0005461-5390-490E-BC36-6DF14FE3E7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0005461-5390-490E-BC36-6DF14FE3E7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0005461-5390-490E-BC36-6DF14FE3E7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
